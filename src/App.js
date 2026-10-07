@@ -6,13 +6,12 @@ import Footer from './components/Footer';
 
 function App() {
 
-  const navLinks = [
-    { index: 0, name: 'About Us', url: 'https://www.components.com/about' },
-    { index: 1, name: 'Adventures', url: 'https://www.components.com/adventures' },
-    { index: 2, name: 'Destinations', url: 'https://www.components.com/destinations' },
-    { index: 3, name: 'Contact', url: 'https://www.components.com/contact' }
-  ]
-
+const navLinks = [
+  { index: 0, name: 'About Us', url: '#' },
+  { index: 1, name: 'Adventures', url: '#' },
+  { index: 2, name: 'Destinations', url: '#' },
+  { index: 3, name: 'Contact', url: '#' }
+]
   const title = "Go Wild Travel";
   const text = "Your Next Adventure Starts Here"
 
