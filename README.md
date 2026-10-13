@@ -31,7 +31,7 @@ The site was built using **React**, following a modular component‑based archit
 
 ## Application Screenshot
 
-![Application Screenshot](src/assets/media/ScreenshotGoWild.png)
+![Application Screenshot](src/assets/media/ScreenshotGoWildCropped.png)
 
 ## 🚀 Demo
 
